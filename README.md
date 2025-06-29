@@ -17,7 +17,7 @@ Probabilities for each condition are displayed, and the top prediction is highli
 
 ---
 
-##Label	Advice
+## Label	Advice
 Eczema	“Eczema is a chronic inflammatory condition characterized by itching, redness and scaling. Use barrier‐strengthening moisturizers and topical treatments. Watch out for stress and temperature triggers.”
 Warts Molluscum and other Viral Infections	“Viral infections like warts and molluscum cause raised, itchy lesions. Immune‐boosting therapies and local cryotherapy are recommended.”
 Melanoma	“Melanoma is the most aggressive skin cancer and requires immediate dermatological evaluation. Look out for asymmetry, color changes, or rapid growth.”
