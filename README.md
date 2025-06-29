@@ -41,8 +41,8 @@ Tinea Ringworm Candidiasis and other Fungal Infections	“Fungal infections pres
 
 ## App Video
 
-<video controls width="640" preload="metadata">
-  <source src="appVideos/mobil.mp4" type="video/mp4">
+<video controls width="640">
+  <source src="https://github.com/<user>/<repo>/releases/download/v1.0/mobil.mp4" type="video/mp4">
   Tarayıcınız video etiketini desteklemiyor.
 </video>
 
